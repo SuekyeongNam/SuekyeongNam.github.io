@@ -1,22 +1,22 @@
-title: Minhyuk Sung
-url: 'https://mhsung.github.io/'
+title: Suekyeong Nam
+url: 'https://suekyeongnam.github.io/'
 #baseurl: '/example' #change it according to your repository name
 permalink: none
 
 #Profile information
-name: Minhyuk Sung
-tagline: Research Scientist<br>Adobe Research
+name: Suekyeong Nam
+tagline: Research Scientist<br>KIST
 #pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: mhsung@cs.stanford.edu
-website: mhsung.github.io/ #do not add http://
-linkedin: mhsung
-github: mhsung
-cv: cv/sung_cv.pdf
-google_scholar: scholar.google.com/citations?user=PcIYMp4AAAAJ&hl=en
-research_statement: cs.stanford.edu/~mhsung/sung_research_statement.pdf
-teaching_statement: cs.stanford.edu/~mhsung/sung_teaching_statement.pdf
+email: sk.nam@kist.re.kr
+website: suekyeongnam.github.io/ #do not add http://
+#linkedin: mhsung
+#github: mhsung
+cv: cv/NAM_cv.pdf
+#google_scholar: scholar.google.com/citations?user=PcIYMp4AAAAJ&hl=en
+#research_statement: cs.stanford.edu/~mhsung/sung_research_statement.pdf
+#teaching_statement: cs.stanford.edu/~mhsung/sung_teaching_statement.pdf
 
 # Tracker
 analytics: UA-35688210-1
