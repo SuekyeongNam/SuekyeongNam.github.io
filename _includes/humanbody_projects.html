@@ -11,15 +11,15 @@
             Action Recognition Methods Effective for Both Spatial and Temporal Features
           </a>
         </span><br>
-  
+        <span>
+        <div style="width:350px; height:500px; border:0px solid red; float:left; margin-right:10px;">
+            <img src="{{site.baseurl}}/assets/images/icpr20-thumbnail.png" align="left" style="width: 350px; height: 400px;"/>
+          </div>
+          <div style="width:350px; height:500px; border:0px solid green; float:left;">
+            <img src="{{site.baseurl}}/assets/images/sigga18-thumbnail.png" align="left" style="width: 350px; height: 100px;"/>
+          </div>
+        </span>
         <span class="summary">
-            
-          <div style="width:400px; height:500px; border:0px solid red; float:left; margin-right:10px;">
-            <img src="{{site.baseurl}}/assets/images/icpr20-thumbnail.png" align="left" style="width: 400px; height: 400px;"/>
-          </div>
-          <div style="width:400px; height:500px; border:0px solid green; float:left;">
-            <img src="{{site.baseurl}}/assets/images/sigga18-thumbnail.png" align="left" style="width: 400px; height: 100px;"/>
-          </div>
           - Started with extracting spatial and temporal features related to symmetrical movement only first.This method manually calculated the features along the spatial-temporal axis from 2D motion textures that are transformed from 3D skeleton data.</br>
           - The follow-up work used CNN and LSTM to extract a variety of both spatial and temporal features. CNN Autoencoder reduced noise and dimensions on 2D motion textures. The compressed texture information enabled to utilize LSTM on images. Results published in 2018 SIGGRAPH Asia poster session. </br>
           - The last work used an adaptive graph structure instead of 2D motion textures, based on my observation of strong correlation between spatial and temporal features. Unlike prior work, this work
